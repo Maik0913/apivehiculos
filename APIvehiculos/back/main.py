@@ -21,7 +21,7 @@ ALLOWED_ORIGINS = [
     "http://localhost:55283",
     "http://localhost:3000",
     "http://127.0.0.1:5500",
-    # "https://tu-proyecto.vercel.app",  # <- descomenta y reemplaza con tu URL real
+    "https://apivehiculos.vercel.app",
 ]
 
 app.add_middleware(
